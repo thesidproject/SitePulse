@@ -310,3 +310,9 @@ docker compose up --build
 - **Live Conversations**: `/api/v1/conversations`, `/api/v1/conversations/init`, `/api/v1/conversations/:id/messages`
 - **Feedback Collection**: `/api/v1/feedback`
 - **Bug Reporting**: `/api/v1/bugs`
+
+---
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details.

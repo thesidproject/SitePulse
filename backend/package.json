@@ -2,6 +2,7 @@
   "name": "sitepulse-backend",
   "version": "1.0.0",
   "description": "SitePulse Backend API and Real-time Chat Gateway",
+  "license": "GPL-3.0-or-later",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
